@@ -3,7 +3,7 @@ package com.manwouna.coderswag.Services
 import com.manwouna.coderswag.Model.Category
 import com.manwouna.coderswag.Model.Product
 
-object DataService {
+object DataService{
 
     val categories = listOf(
         Category("SHIRTS","shirtimage"),
